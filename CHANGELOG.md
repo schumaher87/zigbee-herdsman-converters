@@ -1,5 +1,12 @@
 # Changelog
 
+## [25.89.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.89.0...v25.89.1) (2025-12-16)
+
+
+### Bug Fixes
+
+* **ignore:** bump iconv-lite from 0.7.0 to 0.7.1 in the minor-patch group ([#11018](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11018)) ([9d16015](https://github.com/Koenkk/zigbee-herdsman-converters/commit/9d16015c5de0f96e34ab02f710252d8217b4b1d5))
+
 ## [25.89.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.88.0...v25.89.0) (2025-12-14)
 
 
